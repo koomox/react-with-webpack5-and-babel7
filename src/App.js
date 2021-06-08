@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import "./styles.css";
 import Input from '@/components/input'
+import "./App.css";
 
 export class App extends Component {
     render() {
